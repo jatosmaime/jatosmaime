@@ -9,12 +9,12 @@
 - 🔭 I’m currently building websites for the world   
   
 
-- ❓ Ask me about anything related to Ecom and Woocommerce  
+- ❓ Ask me about anything related to Ecom and Woocommerce.
   
 
-- ⚡ Fun fact: Cinnamon is love, Cinnamon is life  
+- ⚡ Fun fact: Cinnamon is love, Cinnamon is life.
   
-
+ 
 <br/>  
 
 
