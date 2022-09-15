@@ -6,7 +6,7 @@
 ### <div align="center">I'm James, a full-time frontend freelance web developer 👨‍💻 working remotely since 2015 🚀</div>  
   
 
-- 🔭 I’m currently building websites for the world  
+- 🔭 I’m currently building websites for the world   
   
 
 - ❓ Ask me about anything related to Ecom and Woocommerce  
